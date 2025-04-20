@@ -41,7 +41,7 @@ Should I work more on accuracy or consistency to improve my speed?  The data has
 
 ## Conclusions
 
-I will leave it to some more based God out there who can type faster than 133 words over the course of a full minute to posit what causal mechanisms (if any) underpin the correlations that are clearly quantifiable (e.g. Pearson's correlation coefficient between consistency and wpm ~ .6, i.e. moderate).  If that sounds like you - then GODSPEED[^1](#note-1)! Sharing these preliminary findings with the erudite netizens of MonkeyType's discord has instigated passionate debate.  Personally, I just like interrogating multidimensional graphs.  A 3D scatter plot with a technicolor 4th dimension is the pot of gold at the end of my technicolor rainbow.  To get your hands on some magically delicious viz, use your browser to open any html file within "plots/interactive".
+I will leave it to some more based God out there who can type faster than 133 words over the course of a full minute to posit what causal mechanisms (if any) underpin the correlations that are clearly quantifiable (e.g. Pearson's correlation coefficient between consistency and wpm ~ .6, i.e. moderate).  If that sounds like you - then GODSPEED[[*1]](#note-1)! Sharing these preliminary findings with the erudite netizens of MonkeyType's discord has instigated passionate debate.  Personally, I just like interrogating multidimensional graphs.  A 3D scatter plot with a technicolor 4th dimension is the pot of gold at the end of my technicolor rainbow.  To get your hands on some magically delicious viz, use your browser to open any html file within "plots/interactive".
 
 ## Addendum
 
